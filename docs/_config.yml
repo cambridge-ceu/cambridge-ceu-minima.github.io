@@ -1,0 +1,54 @@
+title: cambridge-ceu
+author: GitHub User
+description: Software, documentation
+url: https://github.com/cambridge-ceu
+
+twitter:
+  username: CAMBRIDGE_CEU
+
+social:
+  name: cambridge-ceu
+  links:
+    - https://github.com/cambridge-ceu
+    - https://twitter.com/CAMBRIDGE_CEU
+
+logo: /assets/images/github.svg
+
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-redirect-from
+  - jekyll-sass-converter
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jemoji
+
+minima_reboot:
+  date_format: "%b %-d, %Y"
+  date_format_short: "%b %-d"
+
+header_pages:
+  - _pages/Repositories:
+    - _pages/information.md
+    - _pages/repositories.md
+  - _pages/github.md
+  - _pages/twitter.md
+  - _pages/posts.md
+  - _pages/about.md
+
+include:
+    - _pages
+
+footer_icons:
+- username: cambridge-ceu
+  url: https://github.com/cambridge-ceu
+  icon: icon-github.svg
+
+paginate: 5
+
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - minima-reboot.gemspec
