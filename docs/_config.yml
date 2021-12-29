@@ -12,7 +12,7 @@ social:
     - https://github.com/cambridge-ceu
     - https://twitter.com/CAMBRIDGE_CEU
 
-logo: /assets/images/github.svg
+logo: /assets/images/logo.png
 
 plugins:
   - jekyll-feed
@@ -28,9 +28,8 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
-  - _pages/Repositories:
-    - _pages/information.md
-    - _pages/repositories.md
+  - _pages/internal.md
+  - _pages/public.md
   - _pages/github.md
   - _pages/twitter.md
   - _pages/posts.md
