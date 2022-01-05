@@ -1,7 +1,7 @@
 #!/usr/bin/bash
 
 cd docs
-bundle exec jekyll build
+jekyll build
 cd -
 for f in .gitignore LICENSE README.md docs
 do
