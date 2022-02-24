@@ -10,5 +10,6 @@ title: Repositories
 * phenoscanner [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/phenoscanner)
 * pQTLtools, [https://jinghuazhao.github.io/pQTLtools/](https://jinghuazhao.github.io/pQTLtools/) [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLtools)
 * ProGem [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/ProGeM)
+* Sun-et-al-2021-protein-coding-variants-in-human-disease [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/Sun-et-al-2021-protein-coding-variants-in-human-disease)
 * The Book of Statistical Proofs, [https://statproofbook.github.io/](https://statproofbook.github.io/) [![](/assets/images/github.svg)](https://github.com/StatProofBook)
 * TwoSampleMR [https://mrcieu.github.io/TwoSampleMR/](https://mrcieu.github.io/TwoSampleMR/) [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/TwoSampleMR)
