@@ -1,6 +1,6 @@
 ---
 layout: post
-title: finamap is documented
+title: finemap is documented
 date: 2022-03-03 GMT 14:51:41 +097913178
 ---
 
