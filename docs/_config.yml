@@ -15,6 +15,7 @@ social:
 logo: /assets/images/logo.png
 
 plugins:
+  - bundler/graph
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
