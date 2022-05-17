@@ -1,10 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="256" height="256" viewBox="0 0 256 256" xml:space="preserve">
-<desc>Created with Fabric.js 1.7.22</desc>
-<defs>
-</defs>
-<g transform="translate(128 128) scale(0.72 0.72)" style="">
-	<g style="stroke: none; stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: none; fill-rule: nonzero; opacity: 1;" transform="translate(-175.05 -175.05) scale(3.89 3.89)" >
-	<path d="M 88.119 23.338 c -1.035 -3.872 -4.085 -6.922 -7.957 -7.957 C 73.144 13.5 45 13.5 45 13.5 s -28.144 0 -35.162 1.881 c -3.872 1.035 -6.922 4.085 -7.957 7.957 C 0 30.356 0 45 0 45 s 0 14.644 1.881 21.662 c 1.035 3.872 4.085 6.922 7.957 7.957 C 16.856 76.5 45 76.5 45 76.5 s 28.144 0 35.162 -1.881 c 3.872 -1.035 6.922 -4.085 7.957 -7.957 C 90 59.644 90 45 90 45 S 90 30.356 88.119 23.338 z M 36 58.5 v -27 L 59.382 45 L 36 58.5 z" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(0,0,0); fill-rule: nonzero; opacity: 1;" transform=" matrix(1 0 0 1 0 0) " stroke-linecap="round" />
-</g>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="256px" height="256px" viewBox="0 0 192 192" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 186.574219 50.496094 C 184.402344 42.363281 177.996094 35.957031 169.859375 33.78125 C 155.121094 29.832031 96 29.832031 96 29.832031 C 96 29.832031 36.878906 29.832031 22.140625 33.78125 C 14.003906 35.957031 7.597656 42.363281 5.425781 50.496094 C 1.472656 65.238281 1.472656 96 1.472656 96 C 1.472656 96 1.472656 126.761719 5.425781 141.503906 C 7.597656 149.636719 14.003906 156.042969 22.140625 158.21875 C 36.878906 162.167969 96 162.167969 96 162.167969 C 96 162.167969 155.121094 162.167969 169.859375 158.21875 C 177.996094 156.042969 184.402344 149.636719 186.574219 141.503906 C 190.527344 126.761719 190.527344 96 190.527344 96 C 190.527344 96 190.527344 65.238281 186.574219 50.496094 Z M 77.09375 124.359375 L 77.09375 67.640625 L 126.210938 96 Z M 77.09375 124.359375 "/>
 </g>
 </svg>
