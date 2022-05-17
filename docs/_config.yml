@@ -11,6 +11,7 @@ social:
   links:
     - https://github.com/cambridge-ceu
     - https://twitter.com/CAMBRIDGE_CEU
+    - https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ
 
 logo: /assets/images/logo.png
 
@@ -22,6 +23,7 @@ plugins:
   - jekyll-sass-converter
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-youtube
   - jemoji
 
 minima_reboot:
@@ -33,6 +35,7 @@ header_pages:
   - _pages/public.md
   - _pages/github.md
   - _pages/twitter.md
+  - _pages/youtube.md
   - _pages/posts.md
   - _pages/about.md
 

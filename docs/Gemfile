@@ -9,6 +9,7 @@ group :jekyll_plugins do
   gem "html-proofer", "~> 3.19.3"
   gem "jekyll-sass-converter", "~> 1.5.2"
   gem "jekyll-sitemap", "~> 1.4.0"
+  gem "jekyll-youtube"
   gem "jemoji", "~> 0.12.0"
   gem "rake", "~> 13.0.6"
 end
