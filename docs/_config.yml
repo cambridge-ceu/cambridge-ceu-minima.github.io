@@ -46,12 +46,12 @@ footer_icons:
 - username: cambridge-ceu
   url: https://github.com/cambridge-ceu
   icon: icon-github.svg
-- username: cambridge_ceu
-  url: https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ
-  icon: icon-youtube.svg
 - username: CAMBRIDGE_CEU
   url: https://twitter.com/CAMBRIDGE_CEU
   icon: icon-twitter.svg
+- username: cambridge_ceu
+  url: https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ
+  icon: icon-youtube.svg
 
 paginate: 5
 
