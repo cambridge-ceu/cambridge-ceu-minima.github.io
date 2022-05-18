@@ -51,7 +51,7 @@ footer_icons:
   icon: icon-twitter.svg
 - username: ""
   url: https://www.youtube.com/channel/UCeS9CPB2_QGcBsnORnNQyjQ
-  icon: icon-youtube.svg
+  icon: ""
 
 paginate: 5
 
