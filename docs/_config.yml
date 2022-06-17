@@ -1,6 +1,7 @@
 title: cambridge-ceu
 author: Account names
 description: Software, documentation, news
+baseurl: /posts/ 
 url: https://github.com/cambridge-ceu
 
 twitter:
