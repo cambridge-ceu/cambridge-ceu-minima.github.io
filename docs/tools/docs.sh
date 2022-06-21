@@ -8,4 +8,4 @@ do
   git add ${f}
   git commit -m "${f}"
 done
-git push
+git push -f
