@@ -1,0 +1,16 @@
+current directory: /home/jhz22/cambridge-ceu/cambridge-ceu-minima.github.io/docs/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/rds/user/jhz22/hpc-work/bin/ruby -I /rds/user/jhz22/hpc-work/lib/ruby/2.7.0 -r ./siteconf20220717-285762-17zfog0.rb extconf.rb
+creating Makefile
+
+current directory: /home/jhz22/cambridge-ceu/cambridge-ceu-minima.github.io/docs/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /home/jhz22/cambridge-ceu/cambridge-ceu-minima.github.io/docs/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.so
+
+current directory: /home/jhz22/cambridge-ceu/cambridge-ceu-minima.github.io/docs/vendor/bundle/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.so ./.gem.20220717-285762-14q17z0
