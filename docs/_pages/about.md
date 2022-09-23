@@ -22,6 +22,21 @@ The source code for minima is at GitHub: [jekyll / minima][minima], e.g., [gh-pa
 
 The YouTube icon is thankfully from [https://icons8.com/icons/set/youtube][icons8].
 
+## Contact address
+
+```
+Cardiovascular Epidemiology Unit
+Department of Public Health and Primary Care
+The Heart & Lung Research Institute
+University of Cambridge
+Papworth Road
+Cambridge Biomedical Campus
+Cambridge
+CB2 0BB
+Email: xx@medschl.cam.ac.uk / Website: https://www.phpc.cam.ac.uk/ceu/
+```
+
+
 [gh]: https://help.github.com/en/github/working-with-github-pages
 [gh-site]: https://pages.github.com
 [icons8]: https://icons8.com/icons/set/youtube
