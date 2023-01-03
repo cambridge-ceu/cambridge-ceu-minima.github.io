@@ -15,6 +15,7 @@ Developed/hosted software for public use.
 : [![](/assets/images/github.svg)](https://github.com/MRC-Epid/MetabolomicsGWAS_INTERVAL_EPICNorfolk) MetabolomicsGWAS_INTERVAL_EPICNorfolk
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/miamiPlot) miamiPlot
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/phenoscanner) phenoscanner
+: [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLdata) pQTLdata
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLtools) pQTLtools, [https://jinghuazhao.github.io/pQTLtools/](https://jinghuazhao.github.io/pQTLtools/)
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/ProGeM) ProGem
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/shaprs) ShaPRS
