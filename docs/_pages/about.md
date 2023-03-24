@@ -27,7 +27,7 @@ The YouTube icon is thankfully from [https://icons8.com/icons/set/youtube][icons
 ```
 Cardiovascular Epidemiology Unit
 Department of Public Health and Primary Care
-The Heart & Lung Research Institute
+Victor Phillip Dahdaleh Heart & Lung Research Institute
 University of Cambridge
 Papworth Road
 Cambridge Biomedical Campus
