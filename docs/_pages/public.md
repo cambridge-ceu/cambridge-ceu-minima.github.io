@@ -12,6 +12,7 @@ Developed/hosted software for public use.
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/EWAS-fusion) EWAS-fusion [https://cambridge-ceu.github.io/EWAS-fusion/](https://cambridge-ceu.github.io/EWAS-fusion/)
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/gassocplot2) gassocplot2
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/GreenAlgorithms4HPC) GreenAlgorithms4HPC [https://www.green-algorithms.org/](https://www.green-algorithms.org/)
+: [![](/assets/images/github.svg)](https://github.com/INTERVAL-RNAseq) [INTERVAL-RNAseq](https://IntervalRNA.org.uk)
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/METAL) METAL [https://cambridge-ceu.github.io/METAL/](https://cambridge-ceu.github.io/METAL/)
 : [![](/assets/images/github.svg)](https://github.com/MRC-Epid/MetabolomicsGWAS_INTERVAL_EPICNorfolk) MetabolomicsGWAS_INTERVAL_EPICNorfolk
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/miamiPlot) miamiPlot
