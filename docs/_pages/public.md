@@ -20,7 +20,7 @@ Developed/hosted software for public use.
 : [![](/assets/images/github.svg)](https://github.com/rkabacoff/datavis_support) Modern Data Visualization in R, <https://rkabacoff.github.io/datavis/index.html>
 : [![](/assets/images/github.svg)](https://github.com/PGScatalog/pgsc_calc) pgsc_calc, <https://pgsc-calc.readthedocs.io/en/latest/>
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/phenoscanner) phenoscanner
-: [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLdata) pQTLdata
+: [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLdata) pQTLdata, <https://jinghuazhao.github.io/pQTLdata/>
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/pQTLtools) pQTLtools, <https://jinghuazhao.github.io/pQTLtools/>
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/ProGeM) ProGem
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/shaprs) ShaPRS
