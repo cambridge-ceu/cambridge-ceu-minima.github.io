@@ -28,3 +28,4 @@ Developed/hosted software for public use.
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/Sun-et-al-2021-protein-coding-variants-in-human-disease) Sun-et-al-2021-protein-coding-variants-in-human-disease
 : [![](/assets/images/github.svg)](https://github.com/StatProofBook) The Book of Statistical Proofs, <https://statproofbook.github.io/>
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/TwoSampleMR) TwoSampleMR, <https://mrcieu.github.io/TwoSampleMR/>
+: [![](/assets/images/github.svg)](https://github.com/amaas/stanford_dl_ex) UFLDL Tutorial, <http://ufldl.stanford.edu/tutorial/>
