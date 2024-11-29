@@ -1,4 +1,4 @@
-title: cambridge-ceu
+title: cambridge-ceu-minima
 author: Account names
 description: Software, documentation, news
 baseurl: /cambridge-ceu-minima.github.io/
@@ -8,7 +8,7 @@ twitter:
   username: CAMBRIDGE_CEU
 
 social:
-  name: cambridge-ceu
+  name: cambridge-ceu-minima
   links:
     - https://github.com/cambridge-ceu
     - https://twitter.com/CAMBRIDGE_CEU
