@@ -1,3 +1,3 @@
 # Cambridge University Cardiovascular Epidemiology Unit
 
-## https://cambridge-ceu-minima.github.io/
+## https://cambridge-ceu.github.io/cambridge-ceu-minima.github.io/
