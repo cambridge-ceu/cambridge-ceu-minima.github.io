@@ -30,3 +30,5 @@ Developed/hosted software for public use.
 : [![](/assets/images/github.svg)](https://github.com/StatProofBook) The Book of Statistical Proofs, <https://statproofbook.github.io/>
 : [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/TwoSampleMR) TwoSampleMR, <https://cambridge-ceu.github.io/TwoSampleMR/>
 : [![](/assets/images/github.svg)](https://github.com/amaas/stanford_dl_ex) UFLDL Tutorial, <http://ufldl.stanford.edu/tutorial/>
+: [![](/assets/images/github.svg)](https://github.com/cambridge-ceu/Ultimate-Neural-Network-Programming-with-Python) Ultimate Neural Network Programming with Python <https://orangeava.com/products/ultimate-neural-network-programming-with-python>
+
