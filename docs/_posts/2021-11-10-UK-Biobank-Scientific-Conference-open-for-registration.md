@@ -12,4 +12,4 @@ date: 2021-11-10 GMT 10:46:35 +174737822
 
 ## NOTES
 
-also listed at [https://cambridge-ceu.github.io/CEU-scientific-meetings/talks/](https://cambridge-ceu.github.io/CEU-scientific-meetings/talks/)
+also listed at [https://cambridge-ceu.github.io/CEU-matters/talks/](https://cambridge-ceu.github.io/CEU-matters/talks/)
